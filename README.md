@@ -13,6 +13,3 @@ E-mail de contato:
 <a href="felipebochgg@gmail.com">felipebochgg@gmail.com<a/>
 
 
-
-
-![Snake animation](https://github.com/felipeboch/felipeboch/blob/output/github-contribution-grid-snake.svg)
