@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Felipe Boch</h1>
-    <h3>Em busca de novas oportunidades...</h3>
+    <h3>- CWI CRESCER</h3>
     <hr>
     <div>
         <h2>🔗 Contatos</h2>
@@ -20,11 +20,4 @@
         </a>
     </div>
     <hr>
-    <div>
-        <h2>🎯 Aprendendo</h2> 
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht="30" height="30"/>      
-          <p>Python</p>
-         </div> 
-    </div>
 </div>
